@@ -30,7 +30,7 @@
 - 💡 I'm a passionate learner who's always willing to learn and work across technologies and domains.
 - ✨ I love to explore new technologies and leverage them to solve real-life problems.
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-rayhanyulanda.github.io-2648ff?style=flat-square&logo=google-chrome)](https://rayhanyulanda.github.io/)
+[![Website Badge](https://img.shields.io/badge/-rayhanyulanda.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://rayhanyulanda.github.io)](https://rayhanyulanda.github.io)
 
 <img align="right" height="280" width="375" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
