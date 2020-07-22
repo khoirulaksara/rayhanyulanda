@@ -30,7 +30,7 @@
 - 💡 I'm a passionate learner who's always willing to learn and work across technologies and domains.
 - ✨ I love to explore new technologies and leverage them to solve real-life problems.
 
-[![Website Badge](https://img.shields.io/badge/-rayhanyulanda.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://rayhanyulanda.github.io)](https://rayhanyulanda.github.io)
+[![Website Badge](https://img.shields.io/badge/-rayhanyulanda.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://rayhanyulanda.github.io)](https://rayhanyulanda.github.io) [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/RayhanYulanda)](https://www.paypal.me/RayhanYulanda)
 
 <img align="right" height="280" width="375" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
@@ -88,7 +88,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rayhanyulanda&repo=rayhanyulanda.github.io&theme=prussian" />
 </a>
 
-[![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/RayhanYulanda)](https://www.paypal.me/RayhanYulanda) or <a href="https://www.buymeacoffee.com/rayhany" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+<div align="center">
+<a href="https://www.buymeacoffee.com/rayhany" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+</div>
 
 #
 
