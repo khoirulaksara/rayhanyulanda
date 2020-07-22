@@ -75,7 +75,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=tokyonight&hide_langs_below=0.0003" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src='https://github-readme-stats.vercel.app/api?username=rayhanyulanda&show_icons=true&theme=tokyonight&line_height=27&hide=["issues"]' alt="Rehan's github stats" />
+  <img align="center" src='https://github-readme-stats.vercel.app/api?username=rayhanyulanda&show_icons=true&theme=tokyonight&line_height=27' alt="Rehan's github stats" />
 </a>
 
 <a href="https://github.com/RayhanYulanda/Attendize-Scanner-Mobile">
