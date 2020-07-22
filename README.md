@@ -74,9 +74,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=tokyonight&hide_langs_below=0.0003" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanyulanda&show_icons=true&theme=tokyonight&line_height=27&hide=['issues']" alt="Rehan's github stats" />
-</a>
+</a>-->
+![Rehan's github stats](https://github-readme-stats.vercel.app/api?username=rayhanyulanda&show_icons=true&theme=tokyonight&line_height=27&hide=["issues"])
 
 <a href="https://github.com/RayhanYulanda/Attendize-Scanner-Mobile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rayhanyulanda&repo=attendize-scanner-mobile&theme=prussian" />
