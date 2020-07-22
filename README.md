@@ -72,10 +72,10 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanyulanda&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanyulanda&show_icons=true&theme=radical&line_height=27" alt="Rehan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanyulanda&show_icons=true&theme=radical&line_height=27&hide=["issues"]" alt="Rehan's github stats" />
 </a>
 
 <a href="https://github.com/RayhanYulanda/Attendize-Scanner-Mobile">
