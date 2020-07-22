@@ -32,42 +32,46 @@
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-rayhanyulanda.github.io-2648ff?style=flat-square&logo=google-chrome)](https://rayhanyulanda.github.io/)
 
-<img align="right" height="250" width="375" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
+<img align="right" height="270" width="375" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Laravel, CodeIgniter, Flutter <br /> React Native, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
 - 💬 Ask me about anything [here](https://github.com/rayhanyulanda/rayhanyulanda/issues/)! I am happy to help.
-- ⚡ Fun fact: The first computer "bug" was identified in1947 as a dead moth.
+- ⚡ Fun fact: The first virus was created in 1983
 - 📫 How to reach me: rayhanyulanda@gmail.com
 - 📝 [Resume](https://linkedin.com/in/rayhanyulanda)
 
 ### Languages and Tools:
 
-**Back-end**
+- **Back-end** :
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-- PHP
-- Dart
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <!--- Nodejs-->
-**Front-end**
-- Html
-- css
-- js
-- React js
-**Databases**
-- mysql
+- **Front-end** :
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png"></code>
+- **Databases** :
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <!--- nosql-->
-**Cloud Servers**
-- hostinger vps
-<!--- gcloud-->
-<!--- digitalocean-->
-**Tools**
+**Mobile** : 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+- **Tools** :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<!--phpstorm-->
+
+<!--- **Cloud Servers** : Hostinger VPS-->
+<!--- gcloud-->
+<!--- digitalocean-->
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
