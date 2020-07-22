@@ -89,9 +89,7 @@
 </a>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/rayhany" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-  or
-  [![Website Badge](https://img.shields.io/badge/-PayPal-00457C?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/RayhanYulanda/)](https://rayhanyulanda.github.io)
+<a href="https://www.buymeacoffee.com/rayhany" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a> or [![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/RayhanYulanda/)(https://rayhanyulanda.github.io)
 </p>
 
 #
