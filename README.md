@@ -1,28 +1,26 @@
 ## Hello World, I'm Rehan! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://linkedin.com/in/rayhanyulanda">
-  <img align="left" alt="Rehan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rehan's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051282.png" />
 </a>
 <a href="https://github.com/rayhanyulanda">
-  <img align="left" alt="Rehan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Rehan's Github" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051275.png" />
 </a>
 <a href="https://twitter.com/rayhanyulanda">
-  <!--<img align="left" alt="Rehan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />-->
   <img align="left" alt="Rehan's Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051280.png" />
 </a>
 <a href="https://t.me/rayhanyulanda">
-  <img align="left" alt="Rehan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Rehan's Telegram" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051266.png" />
 </a>
 <a href="https://instagram.com/rayhanyulanda/">
-  <img align="left" alt="Rehan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rehan's Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051262.png" />
 </a>
 <a href="https://www.facebook.com/rayhanyulanda/">
-  <img align="left" alt="Rehan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Rehan's Facebook" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051258.png" />
 </a>
-<a href="https://www.hackerrank.com/rayhanyulanda/">
+<!--<a href="https://www.hackerrank.com/rayhanyulanda/">
   <img align="left" alt="Rehan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-
+</a>-->
 <br />
 
 ### Glad to see you here! 🤩 &nbsp;
