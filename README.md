@@ -1,12 +1,14 @@
 ## Hello World, I'm Rehan! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/rayhanyulanda">
-  <img align="left" alt="Rehan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://linkedin.com/in/rayhanyulanda">
-  <img align="left" alt="Rehan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <img align="left" alt="Rehan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a href="https://github.com/rayhanyulanda">
   <img align="left" alt="Rehan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://twitter.com/rayhanyulanda">
+  <!--<img align="left" alt="Rehan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />-->
+  <img align="left" alt="Rehan's Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051280.png" />
 </a>
 <a href="https://t.me/rayhanyulanda">
   <img align="left" alt="Rehan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
