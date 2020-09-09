@@ -74,6 +74,7 @@
 <br>
 <div align="center">
 <a href="https://www.buymeacoffee.com/rayhany" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+<a href="https://ko-fi.com/R5R8262CD" target="_blank"><img height="43" src="https://cdn.ko-fi.com/cdn/kofi2.png?v=2" alt="Buy Me a Coffee at ko-fi.com" /></a>
 </div>
 
 #
