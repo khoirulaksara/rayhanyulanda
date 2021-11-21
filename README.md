@@ -33,7 +33,7 @@
 
 <img align="right" height="280" width="375" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuffs :woman:
 
 - 🛠 I’m currently working with Laravel, CodeIgniter, Flutter <br /> React Native, Javascript, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
@@ -42,7 +42,7 @@
 - 📫 How to reach me: rayhanyulanda@gmail.com
 - 📝 [Resume](https://linkedin.com/in/rayhanyulanda)
 
-### Languages and Tools:
+### Languages and Tools 🛠️
 
 | SKILLS  | LANGUAGE/TOOLS |
 | ------------- | ------------- |
@@ -56,6 +56,10 @@
 <!--- **Cloud Servers** : Hostinger VPS-->
 <!--- gcloud-->
 <!--- digitalocean-->
+
+### Git Profile Trophies <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />
+<img src="https://github-profile-trophy.vercel.app/?username=rayhanyulanda&theme=gruvbox" />
+
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -81,8 +85,6 @@
 <!--<a href="https://trakteer.id/rayhanyulanda" target="_blank"><img height="43" src="https://cdn.trakteer.id/images/mix/trakteer-thumbnail.png" alt="Buy Me a Cendol"/></a>
 </div>-->
 </div>
-
-#
 
 <div align="center">
 
