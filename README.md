@@ -58,6 +58,8 @@
 <!--- digitalocean-->
 
 ### Git Profile Trophies <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=rayhanyulanda&theme=gotham&hide_border=true&area=true)
+
 <img src="https://github-profile-trophy.vercel.app/?username=rayhanyulanda&theme=gruvbox" />
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
