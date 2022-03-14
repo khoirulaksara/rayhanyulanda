@@ -1,7 +1,7 @@
 ## HELLO WORLD, I'm Rehan!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://linkedin.com/in/rayhanyulanda">
-  <img align="left" alt="Rehan's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051282.png" />
+  <img align="left" alt="Rehan's Linkedin" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051282.png" />
 </a>
 <a href="https://github.com/rayhanyulanda">
   <img align="left" alt="Rehan's Github" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051275.png" />
