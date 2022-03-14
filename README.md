@@ -12,6 +12,9 @@
 <a href="https://t.me/rayhanyulanda">
   <img align="left" alt="Rehan's Telegram" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/telegram.png" />
 </a>
+<a href="https://medium.com/@rayhanyulanda">
+  <img align="left" alt="Rehan's Medium" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/medium.png" />
+</a>
 <a href="https://instagram.com/rayhanyulanda/">
   <img align="left" alt="Rehan's Instagram" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/instagram.png" />
 </a>
