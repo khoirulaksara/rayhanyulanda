@@ -1,22 +1,22 @@
 ## HELLO WORLD, I'm Rehan!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://linkedin.com/in/rayhanyulanda">
-  <img align="left" alt="Rehan's Linkedin" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051282.png" />
+  <img align="left" alt="Rehan's Linkedin" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/linkedin.png" />
 </a>
 <a href="https://github.com/rayhanyulanda">
-  <img align="left" alt="Rehan's Github" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051275.png" />
+  <img align="left" alt="Rehan's Github" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/github.png" />
 </a>
 <a href="https://twitter.com/rayhanyulanda">
-  <img align="left" alt="Rehan's Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051280.png" />
+  <img align="left" alt="Rehan's Twitter" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/twitter.png" />
 </a>
 <a href="https://t.me/rayhanyulanda">
-  <img align="left" alt="Rehan's Telegram" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051266.png" />
+  <img align="left" alt="Rehan's Telegram" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/telegram.png" />
 </a>
 <a href="https://instagram.com/rayhanyulanda/">
-  <img align="left" alt="Rehan's Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051262.png" />
+  <img align="left" alt="Rehan's Instagram" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/instagram.png" />
 </a>
 <a href="https://www.facebook.com/rayhanyulanda/">
-  <img align="left" alt="Rehan's Facebook" width="22px" src="https://image.flaticon.com/icons/png/128/1051/1051258.png" />
+  <img align="left" alt="Rehan's Facebook" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/facebook.png" />
 </a>
 <!--<a href="https://www.hackerrank.com/rayhanyulanda/">
   <img align="left" alt="Rehan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
